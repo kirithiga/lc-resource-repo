@@ -1,0 +1,9 @@
+{
+  "monitor": {
+    "hostgroups": {
+      "change": "Change Host Group",
+      "summary": "Summary",
+      "reporttitle": "Host Group Report"
+    }
+  }
+}
